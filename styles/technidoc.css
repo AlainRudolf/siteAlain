@@ -1,0 +1,10 @@
+/* Header for Technidoc */
+.TD_header {
+    padding: 30px;
+    text-align: center;
+    background: rgb(179, 233, 233);
+}
+
+.TD_header h1 {
+    font-size: 50px;
+}
